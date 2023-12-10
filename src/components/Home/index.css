@@ -1,0 +1,14 @@
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.head {
+  padding: 20px;
+  margin: 20px;
+}
